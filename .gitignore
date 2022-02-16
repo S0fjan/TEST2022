@@ -14,3 +14,8 @@ _book
 *.epub
 *.mobi
 *.pdf
+
+.DS_Store
+.*.icloud
+.gitkeep
+.idea
